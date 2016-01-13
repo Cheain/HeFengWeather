@@ -1,3 +1,4 @@
+# IDE : PyCharm Community Edition 5.0.3
 # if you want to use this program ,please apply a new key for yourself and use your own key
 # you can see all the weather information in 'allWeatherInfo' , and choose which you need to show
 # what I showed is in the weatherForrcast and packaging for some functions
