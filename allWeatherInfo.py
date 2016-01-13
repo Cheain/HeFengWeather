@@ -1,4 +1,4 @@
-# 解析全部返回数据示例
+# analysis all the weather information
 
 info = {'HeWeather data service 3.0': [{'basic': {'city': '北京', 'cnty': '中国', 'lat': '39.904000',
                                                   'update': {'utc': '2016-01-12 09:04', 'loc': '2016-01-12 17:04'},

@@ -1,4 +1,4 @@
-# 天气预报输出的封装
+# packaging for some functions to show the weather
 
 # basic
 def basic(info):
