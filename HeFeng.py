@@ -1,6 +1,7 @@
 # if you want to use this program ,please apply a new key for yourself and use your own key
-# you can see all the weather information in 'allWeatherInfo' ,and choose which you need to show
+# you can see all the weather information in 'allWeatherInfo' , and choose which you need to show
 # what I showed is in the weatherForrcast and packaging for some functions
+# the description of the weather I used Chinese , if you want to query the other country please alter the dercription
 import json
 import urllib.parse
 import urllib.request
