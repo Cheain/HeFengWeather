@@ -4,7 +4,6 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/HeFenWeather.iml" filepath="$PROJECT_DIR$/.idea/HeFenWeather.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/HeFengWeather.iml" filepath="$PROJECT_DIR$/.idea/HeFengWeather.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../hammer/.idea/hammer.iml" filepath="$PROJECT_DIR$/../hammer/.idea/hammer.iml" />
     </modules>
   </component>
 </project>
